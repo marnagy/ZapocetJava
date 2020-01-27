@@ -1,0 +1,1 @@
+public enum CellType { Value, ToBeEvalueated, Empty, Error }
